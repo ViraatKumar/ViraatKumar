@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viraat Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **React.JS, MERN, C#**
+- 🌱 I’m currently learning and working on projects using **MERN, Spring(Java) and Kotlin** (also trying to find the time here and there to learn some **Rust**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 📫 How to reach me **viraat.kumar7@gmail.com**
 
-- ⚡ Fun fact **I enjoy building and creating applications**
+- ⚡ Fun fact **Currently working on a small app that may in the future, turns into a start-up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
