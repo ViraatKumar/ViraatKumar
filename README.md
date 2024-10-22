@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning and working on projects using **MERN, Spring(Java) and Kotlin** (also trying to find the time here and there to learn some **Rust**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack, Gen AI projects**
 
 - 📫 How to reach me **viraat.kumar7@gmail.com**
 
